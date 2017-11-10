@@ -4,4 +4,3 @@ pandas
 scipy
 pymc3
 theano
-pickle
