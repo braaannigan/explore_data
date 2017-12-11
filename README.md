@@ -8,6 +8,8 @@ clicking:
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/braaannigan/explore_data/master)
 
+and then launch on the next page (takes about a minute to load).
+
 #  Lagged bokeh plots
 To test a routine with simple pre-defined data, exectute
 in the bash terminal $ bokeh serve --show run_example.py
