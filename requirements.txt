@@ -7,3 +7,4 @@ pymc3
 theano
 holoviews
 bokeh
+seaborn
