@@ -2,7 +2,10 @@
 Jupyter notebooks and functions for interactive data exploration with python.
 
 # Bayesian methods for oceanography
-You can download the
+You can download the jupyter notebooks and the files in the data directory
+to use on your own machine, or you can run them in the cloud by
+clicking:
+
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/braaannigan/explore_data/master)
 
 #  Lagged bokeh plots
