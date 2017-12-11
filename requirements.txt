@@ -8,3 +8,4 @@ theano
 holoviews
 bokeh
 seaborn
+netcdf4
